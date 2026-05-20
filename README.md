@@ -740,13 +740,6 @@ Contributions are welcome! Areas for improvement:
 
 ---
 
-## 📞 Contact
-
-**Issues:** [GitHub Issues](https://github.com/Matrasulov/qlora-customer-support-llm/issues)  
-**Discussions:** [GitHub Discussions](https://github.com/Matrasulov/qlora-customer-support-llm/discussions)
-
----
-
 <div align="center">
 
 **Built with ❤️ for production ML deployment**
